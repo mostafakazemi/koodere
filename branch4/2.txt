@@ -1,1 +1,2 @@
 add line 1 for 2.txt
+add line 2 for 2.txt
